@@ -1,0 +1,24 @@
+.hora {
+    display: inline-block;
+    width: 200px;
+}
+
+h1{
+    color: black;
+}
+.principal{
+    background-color: aquamarine;
+    border-style: double;
+    align: center;
+    width:420px;
+    height:270px;
+    border-radius: 10px;
+}
+
+.campo{
+
+}
+
+.btn{
+    ;
+}
